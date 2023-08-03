@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SanudiNim
 - Passionate BSc. (Hons) Computer Science undergraduate at the University of Kelaniya's Faculty of Computing and Technology
 - Exploring the digital realm with problem-solving, and continuous learning
-- 
 
 
 <!---
